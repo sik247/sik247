@@ -21,7 +21,7 @@ I'm an NYU Senior with a deep passion for machine learning and data science. I l
 **📫 How to reach me:**
  
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email)
-[LinkedIn Profile](Your-LinkedIn-URL)
+[LinkedIn Profile](https://www.linkedin.com/in/sang-in-kang-a256b9b0/)
 
 **🔭 Languages, Frameworks, and Tools**
 <p align="left">
