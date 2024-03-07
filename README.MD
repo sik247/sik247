@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-I'm an NYU graduate with a deep passion for machine learning and data science. I love diving into datasets and extracting meaningful insights using advanced ML techniques. 
+I'm an NYU Senior with a deep passion for machine learning and data science. I love diving into datasets and extracting meaningful insights using advanced ML techniques. 
 
 **📚 Education:**
 - BA in Computer Science and Economics, New York University
