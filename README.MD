@@ -7,7 +7,7 @@ I'm an NYU Senior with a deep passion for machine learning and data science. I l
 **📚 Education:**
 - BA in Computer Science and Economics, New York University
 
-**📈 ML Projects:**
+**📈 Projects @ NYU Courant:**
 - Optimized fluid dynamics simulations using TensorFlow and CUDA, reducing computation time by 56%.
 - Developed neighborhood search algorithm using spatial hashing, increasing runtime efficiency by 35%.
 
