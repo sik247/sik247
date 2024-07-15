@@ -7,7 +7,7 @@ Software Engineer - AI Consultant @ Scale.AI
 NYU - Computer Science (Business Studies Minor)
 
 **📚 Education:**
-- BA in Computer Science and Economics, New York University
+- BA in Computer Science, New York University
 **📈 Projects @ NYU Courant:**
 - Optimized fluid dynamics simulations using TensorFlow and CUDA, reducing computation time by 56%.
 - Developed neighborhood search algorithm using spatial hashing, increasing runtime efficiency by 35%
