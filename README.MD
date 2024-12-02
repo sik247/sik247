@@ -2,6 +2,12 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
+AI Researcher @ CoachOn 
+
+Check out our award at CES 
+
+[Award](https://www.google.com/search?q=Coachon&sca_esv=4a9e581ba0958f54&biw=1205&bih=803&ei=sohNZ_n1OfGk2roPnpDM6AE&ved=0ahUKEwj5lvKY7YiKAxVxklYBHR4IEx0Q4dUDCA8&uact=5&oq=Coachon&gs_lp=Egxnd3Mtd2l6LXNlcnAiB0NvYWNob24yBxAAGIAEGAoyBxAAGIAEGAoyBRAAGIAEMgcQABiABBgKMgcQABiABBgKMg0QLhiABBjHARgKGK8BMgUQABiABDIHEC4YgAQYCjIEEAAYHjIEEAAYHkisDVCLBFjxCnADeACQAQCYAZEBoAGZB6oBAzAuN7gBA8gBAPgBAZgCCqACqAfCAgsQABiABBiwAxiiBMICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICEBAuGIAEGNEDGEMYxwEYigXCAgsQLhiABBjRAxjHAcICChAuGIAEGEMYigXCAhMQLhiABBjRAxhDGMcBGMkDGIoFwgILEAAYgAQYkgMYigXCAggQABiABBiSA8ICIhAuGIAEGNEDGEMYxwEYyQMYigUYlwUY3AQY3gQY4ATYAQHCAgUQLhiABJgDAOIDBRIBMSBAiAYBkAYCugYGCAEQARgUkgcDMy43oAefXw&sclient=gws-wiz-serp)
+
 Software Engineer - AI Consultant @ Scale.AI
 
 NYU - Computer Science (Business Studies Minor)
@@ -12,14 +18,11 @@ NYU - Computer Science (Business Studies Minor)
 - Optimized fluid dynamics simulations using TensorFlow and CUDA, reducing computation time by 56%.
 - Developed neighborhood search algorithm using spatial hashing, increasing runtime efficiency by 35%
 
-**📈 Projects @ NYU Courant:**
-- Optimized fluid dynamics simulations using TensorFlow and CUDA, reducing computation time by 56%.
-- Developed neighborhood search algorithm using spatial hashing, increasing runtime efficiency by 35%.
-
 <p/>
 
 **:rocket: Currently working on:**  
 - Leading an independent research project under the guidance of Professor Kayar, aiming to publish on AI's impact on fluid simulations.
+- 
 
 <p align="left">
 
