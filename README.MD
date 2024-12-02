@@ -21,8 +21,9 @@ NYU - Computer Science (Business Studies Minor)
 <p/>
 
 **:rocket: Currently working on:**  
+- Creating an educational LLM using RAG and Langchain. 
 - Leading an independent research project under the guidance of Professor Kayar, aiming to publish on AI's impact on fluid simulations.
-- 
+
 
 <p align="left">
 
