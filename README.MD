@@ -2,8 +2,8 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-**AI Researcher @ CoachOn**  
 
+**AI Researcher @ CoachOn**
 Check out our award at CES 🏆  
 [Award](https://www.ces.tech/innovation-awards/2025/coachon-math-ai-powered-math-education-service/)
 
