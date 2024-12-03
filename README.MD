@@ -41,6 +41,4 @@ Check out our award at CES 🏆
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-2B90A1?style=for-the-badge&logo=pinecone&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-3F53F5?style=for-the-badge&logo=langchain&logoColor=white)
 </p>
