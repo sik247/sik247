@@ -2,39 +2,36 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-AI Researcher @ CoachOn 
+**AI Researcher @ CoachOn**  
+Check out our award at CES 🏆  
+[Award](https://www.ces.tech/innovation-awards/2025/coachon-math-ai-powered-math-education-service/)
 
-Check out our award at CES 
+**Software Engineer - AI Consultant @ Scale.AI**
 
-[Award](https://www.google.com/search?q=Coachon&sca_esv=4a9e581ba0958f54&biw=1205&bih=803&ei=sohNZ_n1OfGk2roPnpDM6AE&ved=0ahUKEwj5lvKY7YiKAxVxklYBHR4IEx0Q4dUDCA8&uact=5&oq=Coachon&gs_lp=Egxnd3Mtd2l6LXNlcnAiB0NvYWNob24yBxAAGIAEGAoyBxAAGIAEGAoyBRAAGIAEMgcQABiABBgKMgcQABiABBgKMg0QLhiABBjHARgKGK8BMgUQABiABDIHEC4YgAQYCjIEEAAYHjIEEAAYHkisDVCLBFjxCnADeACQAQCYAZEBoAGZB6oBAzAuN7gBA8gBAPgBAZgCCqACqAfCAgsQABiABBiwAxiiBMICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICEBAuGIAEGNEDGEMYxwEYigXCAgsQLhiABBjRAxjHAcICChAuGIAEGEMYigXCAhMQLhiABBjRAxhDGMcBGMkDGIoFwgILEAAYgAQYkgMYigXCAggQABiABBiSA8ICIhAuGIAEGNEDGEMYxwEYyQMYigUYlwUY3AQY3gQY4ATYAQHCAgUQLhiABJgDAOIDBRIBMSBAiAYBkAYCugYGCAEQARgUkgcDMy43oAefXw&sclient=gws-wiz-serp)
+**NYU - Computer Science (Business Studies Minor)**
 
-Software Engineer - AI Consultant @ Scale.AI
+### 📚 Education:
+- **BA in Computer Science**, New York University
 
-NYU - Computer Science (Business Studies Minor)
+### 📈 Projects @ NYU Courant:
+- Optimized fluid dynamics simulations using **TensorFlow** and **CUDA**, reducing computation time by **56%**.
+- Developed **neighborhood search algorithm** using **spatial hashing**, increasing runtime efficiency by **35%**.
 
-**📚 Education:**
-- BA in Computer Science, New York University
-**📈 Projects @ NYU Courant:**
-- Optimized fluid dynamics simulations using TensorFlow and CUDA, reducing computation time by 56%.
-- Developed neighborhood search algorithm using spatial hashing, increasing runtime efficiency by 35%
+</p>
 
-<p/>
-
-**:rocket: Currently working on:**  
-- Creating an educational LLM using RAG and Langchain. 
-- Leading an independent research project under the guidance of Professor Kayar, aiming to publish on AI's impact on fluid simulations.
-
+### 🚀 Currently working on:
+- Creating an educational **LLM** using **RAG** and **Langchain**.
+- Leveraging **Pinecone** for efficient vector search in LLMs.
+- Leading an independent research project under the guidance of **Professor Kayar**, aiming to publish on **AI's impact on fluid simulations**.
 
 <p align="left">
 
-**📫 How to reach me:**
- 
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email)
+### 📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)  
 [LinkedIn Profile](https://www.linkedin.com/in/sang-in-kang-a256b9b0/)
 
-**🔭 Languages, Frameworks, and Tools**
+### 🔭 Languages, Frameworks, and Tools:
 <p align="left">
-
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -43,3 +40,6 @@ NYU - Computer Science (Business Studies Minor)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2B90A1?style=for-the-badge&logo=pinecone&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-3F53F5?style=for-the-badge&logo=langchain&logoColor=white)
+</p>
